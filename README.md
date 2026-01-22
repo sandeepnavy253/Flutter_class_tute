@@ -1,2 +1,2 @@
-# simplee_shawarma_app
-A Flutter mobile app for Simplee Shawarma restaurant
+#Flutter Project Dude 
+A Flutter mobile app
